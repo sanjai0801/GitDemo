@@ -12,5 +12,8 @@ public class SampleJava {
 		System.out.println("GIT PRACTICE");
 
 	}
+	public static void sanjaiBranch() {
+	System.out.println("Sanjai Branch");
 
+}
 }
